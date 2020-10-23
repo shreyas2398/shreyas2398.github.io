@@ -9,51 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Translating Hindi sentences to English using Neural Machine Translation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+The goal of the projects was to create a model to translate hindi sentences to english. This project was done by me along with 2 undergrad colleagues as an independendent project to get an exposure to Natural Language Processing. We used Byte Pair Encoding for subword tokenization in order to cover the maximum vocabulary. Hindi is a low resource language so we generated additional data using backtranslation. Further, we did a comparative study using the transformer-based model on different chunks of bactranslated data as well as with and without using BPE. The BLEU and RIBES score we obtained after using BPE and Backtranslation were state-of-art and consequently our research paper was accepted in Springer's International Conference on Communication Computing and Electronic Systems (2020) and we presented it. It will soon be published in Springer Lecture Notes in Electrical Engineering.
