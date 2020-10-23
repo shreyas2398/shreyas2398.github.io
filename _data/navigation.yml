@@ -11,6 +11,8 @@ main:
     
   - title: "Other Activity"
     url: /activity/  
+  - title: "CV"
+    url: /cv/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
