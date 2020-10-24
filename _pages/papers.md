@@ -12,26 +12,17 @@ redirect_from:
 
 * **Oil-well Flow-Rate Forecasting Using Auto-Regressive Model**
 
-  **Shreyas Lele**, - Elsevier's SSRN
+  **Shreyas Lele**, - Elsevier's SSRN (Jan 2020)
   
 * **Stock Market Trading Agent Using On-Policy Reinforcement Learning Algorithms**
 
-  Stock Market Trading Agent Using On-Policy Reinforcement Learning Algorithms
+ **Lele, Shreyas** and Gangar, Kavit and Daftary, Harshal and Dharkar, Dewashish - Elsevier's SSRN (May 2020)
   
-* **Forecasting flow-rate for oilwell using autoregressive model**
+* **Analysis of Well Head Pressure Sensor Data for Anomaly Detection in Oil Well using IIoT and Unsupervised learning Technique**
 
-  This project was an independent project. I applied the ARIMA model on the flow-rate data for the oilwell to forecast the future values. I used Principal Component Analysis for the dimentionality reduction. The corresponding paper was accepted in  Elsevier's SSRN eJournals.
+ **Shreyas Lele** - Volume: 06 Issue: 10 | Oct 2019, International Research Journal of Engineering and Technology (IRJET)
   
-* **Anomaly detection using Unsupervised learning**
-
-  This project was an independent project. I used Isolation Forest, Mahalabois distances to find the anomalies in the well-head pressure sensors data. The results were published in the International Research Journal of Engineering and Technology (IRJET).
-  
-* **Virtual musical instruments**
-
-  This project was taken in the intial phase of undergrad. The objective was to create virtual drums and keyboard, in such a way that the user can play it by just moving the hands in air. We used the Microsoft Kinect for visual feedback and motion detection. We created gloves with infrared sensors connected to Arduino uno microcontroller for obtaining the users' finger flex as he plays the virtual keyboard.  
-
-* **ABU Robocon**
-
-  As a team, we participated in the ABU Robocon national competition. We desgined a robot for completing a frisbee challenge. The visual feedback for the frisbies was obtained using a normal webcam. The bot was driven by an ATmega 128 mcrocontroller. For movement, infrared sensors based line-following was achieved.
-  
+* **Hindi to English: Transformer-Based Neural Machine Translation**
+Kavit Gangar, Hardik Ruparel, **Shreyas Lele** - International Conference on Communication, Computing and Electronic Systems(ICCCES 2020). 
+(Paper is accepted and queued for getting published in the Springer Lecture Notes in Electrical Engineering, so yet to receive the link).
  
