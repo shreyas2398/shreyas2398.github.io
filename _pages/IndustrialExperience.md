@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /industrialexperience/
 author_profile: true
 redirect_from:
-  - /IndustrialExperience
+  - /industrialexperience
 ---
 
 {% include base_path %}
