@@ -9,8 +9,8 @@ main:
   - title: "Industrial Experience"
     url: /industrialexperience/
     
-  - title: "Other Activity"
-    url: /activity/
+  #- title: "Other Activity"
+  #  url: /activity/
     
   - title: "CV"
     url: /files/Resume_Shreyaslele.pdf    
