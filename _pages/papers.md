@@ -23,7 +23,7 @@ redirect_from:
   **Shreyas Lele** - Volume: 06 Issue: 10 | Oct 2019, International Research Journal of Engineering and Technology (IRJET)
   
 * **Hindi to English: Transformer-Based Neural Machine Translation**
-  Kavit Gangar, Hardik Ruparel, **Shreyas Lele** - International Conference on Communication, Computing and Electronic Systems(ICCCES 2020). 
-  
+
+  Kavit Gangar, Hardik Ruparel, **Shreyas Lele** - International Conference on Communication, Computing and Electronic Systems(ICCCES 2020).<br /> 
   (Paper is accepted and queued for getting published in the Springer Lecture Notes in Electrical Engineering, so yet to receive the link).
  
