@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shreyas Lele"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Shreyas Lele"
-description              : &description ""
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://shreyas2398.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shreyas2398/shreyas2398.github.io"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shreyas Lele"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Machine Learning enthusiast. BTech in Information Technology, currently working at Baker Hughes"
-  location         : "Mumbai, India"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "shreyaslele2398@gmail.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :  
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "linkedin.com/in/shreyas-lele-a8271813b"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
