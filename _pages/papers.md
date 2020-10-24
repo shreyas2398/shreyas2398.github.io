@@ -21,5 +21,5 @@ redirect_from:
   
 * **Hindi to English: Transformer-Based Neural Machine Translation** <br />
   Kavit Gangar, Hardik Ruparel, **Shreyas Lele** - International Conference on Communication, Computing and Electronic Systems(ICCCES 2020).<br /> 
-  (Paper is accepted and queued for getting published in the Springer Lecture Notes in Electrical Engineering, so yet to receive the link).
+  (Paper is queued for getting published in the Springer Lecture Notes in Electrical Engineering).
  
