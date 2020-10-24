@@ -12,28 +12,16 @@ redirect_from:
 
 * **Baker Hughes, Mumbai**
 
-  I started working here after my undergrad, since July 2019. I am working in the [Aspire Leadership Program(Engineering & Technology)](https://careers.bakerhughes.com/global/en/aspire) as a Software Engineer. This is Baker Hughes' highly selective program which has very limited number of employees in it.
-  This program demands higher responsibilities, leadership, and direct exposure to company stakeholders. Here I have worked on multiple projects based on cloud-computing, industrial analytic models,
-  on-cloud deployments and server side development. Also as a part of this program, I have accomplished multiple leadership as well as technical trainings, with one at Housten,TX. Along with a small team, I have also accomplished a novel idea
-  based on deployment of Analytic models and have been the co-inventor of a provisional patent, the company has proceeded with filing at the United States Patent and Trademark Office.
+  I started working here after my undergrad, since July 2019. I am working in the [Aspire Leadership Program(Engineering & Technology)](https://careers.bakerhughes.com/global/en/aspire) as a Software Engineer. This is Baker Hughes' highly selective program which has very limited number of employees in it.This program demands higher responsibilities, leadership, and direct exposure to company stakeholders. Here I have worked on multiple projects based on cloud-computing, industrial analytic models, on-cloud deployments and server side development. Also as a part of this program, I have accomplished multiple leadership as well as technical trainings, with one at Housten,TX. Along with a small team, I have also accomplished a novel idea based on deployment of Analytic models and have been the co-inventor of a provisional patent, the company has proceeded with filing at the United States Patent and Trademark Office.
   
-* **Intelligent agent using Reinforcement Learning for trading stocks in a stock market environment**
+* **Samsung Research Institute, Bangalore**
 
-  This project was the final year project for my Bachelors. The objective was to create an intelligent agent which could trade stocks in an environment of stock market. The agent was based on on-policy Reinforcement Learning Algorithms like VPG, TRPO and PPO. We create the stock market environment which gave the agent rewards based on its trading decisions and the resultant profits and loss. The environment is OpenAI Gymc compatible. We did a comparitive study between the three on-policy algorithms and different stocks. Later, our research paper was accepted and distributed in the Elsevier's SSRN eJournals.
+  This was a 2-month internship during my undergrad summer, 2018. I worked on a project of developing robust servers for facilitating communication in the MCPTT network over 5G. MCPTT (Mission Critical Push To Talk) services connect first responders, transportation authorities, homeland security, other public agencies and even utility emergency response teams. Here i implemeted a flexible group calling feature.Here, I was also able to successfully complete a coding challenge hosted by the company. 
   
-* **Forecasting flow-rate for oilwell using autoregressive model**
+* **Bristlecone, Mumbai**
 
-  This project was an independent project. I applied the ARIMA model on the flow-rate data for the oilwell to forecast the future values. I used Principal Component Analysis for the dimentionality reduction. The corresponding paper was accepted in  Elsevier's SSRN eJournals.
+  This was a 2-month internship during my undergrad summer, 2017. I completed basic chat bot development training and we developed a simple chat bot for internal company use. I also worked on creating a company portal.
   
-* **Anomaly detection using Unsupervised learning**
+* **Exxon Automation Pvt. Ltd.**
 
-  This project was an independent project. I used Isolation Forest, Mahalabois distances to find the anomalies in the well-head pressure sensors data. The results were published in the International Research Journal of Engineering and Technology (IRJET).
-  
-* **Virtual musical instruments**
-
-  This project was taken in the intial phase of undergrad. The objective was to create virtual drums and keyboard, in such a way that the user can play it by just moving the hands in air. We used the Microsoft Kinect for visual feedback and motion detection. We created gloves with infrared sensors connected to Arduino uno microcontroller for obtaining the users' finger flex as he plays the virtual keyboard.  
-
-* **ABU Robocon**
-
-  As a team, we participated in the ABU Robocon national competition. We desgined a robot for completing a frisbee challenge. The visual feedback for the frisbies was obtained using a normal webcam. The bot was driven by an ATmega 128 mcrocontroller. For movement, infrared sensors based line-following was achieved.
-  
+  This was a 2-month internship during my undergrad summer, 2016. I worked on the project of digitalization of the Mumbai University Admission Process. I got the opportunity to responsibly handle the data of more than. 3 lakh students.
