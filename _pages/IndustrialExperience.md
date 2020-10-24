@@ -22,6 +22,6 @@ redirect_from:
 
   This was a 2-month internship during my undergrad summer, 2017. I completed basic chat bot development training and we developed a simple chat bot for internal company use. I also worked on creating a company portal.
   
-* **Exxon Automation Pvt. Ltd.**
+* **Exxon Automation Pvt. Ltd., Mumbai**
 
   This was a 2-month internship during my undergrad summer, 2016. I worked on the project of digitalization of the Mumbai University Admission Process. I got the opportunity to responsibly handle the data of more than. 3 lakh students.
