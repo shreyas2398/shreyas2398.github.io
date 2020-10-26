@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Industrial Experience"
 permalink: /industrialexperience/
 author_profile: true
 redirect_from:
