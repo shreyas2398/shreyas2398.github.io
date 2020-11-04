@@ -16,7 +16,7 @@ redirect_from:
   
 * **Intelligent agent using Reinforcement Learning for trading stocks in a stock market environment**
 
-  This project was the final year project for my Bachelors. The objective was to create an intelligent agent which could trade stocks in an environment of stock market. The agent was based on on-policy Reinforcement Learning Algorithms like VPG, TRPO and PPO. We create the stock market environment which gave the agent rewards based on its trading decisions and the resultant profits and loss. The environment is OpenAI Gymc compatible. We did a comparitive study between the three on-policy algorithms and different stocks. Later, our research paper was accepted and distributed in the Elsevier's SSRN eJournals.
+  This project was the final year project for my Bachelors. The objective was to create an intelligent agent which could trade stocks in an environment of stock market. The agent was based on on-policy Reinforcement Learning Algorithms like VPG, TRPO and PPO. We create the stock market environment which gave the agent rewards based on its trading decisions and the resultant profits and loss. The environment is OpenAI Gym compatible. We did a comparative study between the three on-policy algorithms and different stocks. Later, our research paper was accepted and distributed in the Elsevier's SSRN eJournals.
   
 * **Forecasting flow-rate for oilwell using autoregressive model**
 
