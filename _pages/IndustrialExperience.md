@@ -25,3 +25,4 @@ redirect_from:
 * **Exxon Automation Pvt. Ltd., Mumbai**
 
   This was a 2-month internship during my undergrad summer, 2016. I worked on the project of digitalization of the Mumbai University Admission Process. I got the opportunity to responsibly handle the data of more than. 3 lakh students.
+  
