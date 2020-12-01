@@ -12,11 +12,15 @@ redirect_from:
 
 * **Transformer-based Neural Machine Translation for Hindi to English**
 
-  The goal of the projects was to create a model to translate hindi sentences to english. This project was done by me along with 2 undergrad colleagues as an independendent project to get an exposure to Natural Language Processing. We used Byte Pair Encoding for subword tokenization in order to cover the maximum vocabulary. Hindi is a low resource language so we generated additional data using backtranslation. Further, we did a comparative study using the transformer-based model on different chunks of bactranslated data as well as with and without using BPE. The BLEU and RIBES score we obtained for our model after were state-of-art and consequently our research paper was accepted in Springer's International Conference on Communication Computing and Electronic Systems (2020) and we presented it. It will soon be published in Springer Lecture Notes in Electrical Engineering.
+  The goal of the projects was to create a model to translate hindi sentences to english. This project was done by me along with 2 undergrad colleagues as an independendent project to get an exposure to Natural Language Processing. We used Byte Pair Encoding for subword tokenization in order to cover the maximum vocabulary. Hindi is a low resource language so we generated additional data using backtranslation. Further, we did a comparative study using the transformer-based model on different chunks of bactranslated data as well as with and without using BPE. The BLEU and RIBES score we obtained for our model after were state-of-art and consequently our research paper was accepted in Springer's International Conference on Communication Computing and Electronic Systems (2020) and we presented it. It will soon be published in Springer Lecture Notes in Electrical Engineering.<br>
+
+  [repo](https://github.com/shreyas2398/Hindi-to-English-Transformer-Based-NMT)
   
 * **Intelligent agent using Reinforcement Learning for trading stocks in a stock market environment**
 
-  This project was the final year project for my Bachelors. The objective was to create an intelligent agent which could trade stocks in an environment of stock market. The agent was based on on-policy Reinforcement Learning Algorithms like VPG, TRPO and PPO. We create the stock market environment which gave the agent rewards based on its trading decisions and the resultant profits and loss. The environment is OpenAI Gym compatible. We did a comparative study between the three on-policy algorithms and different stocks. Later, our research paper was accepted and distributed in the Elsevier's SSRN eJournals.
+  This project was the final year project for my Bachelors. The objective was to create an intelligent agent which could trade stocks in an environment of stock market. The agent was based on on-policy Reinforcement Learning Algorithms like VPG, TRPO and PPO. We create the stock market environment which gave the agent rewards based on its trading decisions and the resultant profits and loss. The environment is OpenAI Gym compatible. We did a comparative study between the three on-policy algorithms and different stocks. Later, our research paper was accepted and distributed in the Elsevier's SSRN eJournals.<br>
+  
+  [repo](https://github.com/shreyas2398/StockTrading-using-Reinforcement-Learning)
   
 * **Forecasting flow-rate for oilwell using autoregressive model**
 
