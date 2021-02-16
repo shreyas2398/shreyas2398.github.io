@@ -9,8 +9,8 @@ main:
   - title: "Industrial Experience"
     url: /industrialexperience/
     
-  - title: "CV"
-    url: /files/ShreyasResumeGH.pdf    
+  #- title: "CV"
+  #  url: /files/ShreyasResumeGH.pdf    
  
    
 
